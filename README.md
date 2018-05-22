@@ -1,5 +1,7 @@
 A curses-based interface for inspecting DWARF information in binary files. Think of it as an interactive `dwarfdump`.
 
+[![asciicast](https://asciinema.org/a/uQDYy67AqckvfVKtzRBlREJpb.png)](https://asciinema.org/a/uQDYy67AqckvfVKtzRBlREJpb)
+
 ## License
 
 Licensed under either of
