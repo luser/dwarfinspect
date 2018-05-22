@@ -1,7 +1,12 @@
 [package]
 name = "dwarfinspect"
+categories = ["development-tools::debugging"]
+description = "A curses-based interactive DWARF inspector."
 version = "0.1.0"
 authors = ["Ted Mielczarek <ted@mielczarek.org>"]
+license = "Apache-2.0/MIT"
+readme = "./README.md"
+repository = "https://github.com/luser/dwarfinspect"
 
 [dependencies]
 cursive = "0.8.1"
